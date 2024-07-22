@@ -29,7 +29,7 @@ class TopScreen extends StatelessWidget {
               child: const Text('Navigate to regular'),
             ),
           ],
-        ),F
+        ),
       ),
     );
   }
